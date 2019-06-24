@@ -1,0 +1,16 @@
+{
+  "name": "twitter-sentiment-app",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "sentiment": "^5.0.1",
+    "twit": "^2.2.11"
+  }
+}
